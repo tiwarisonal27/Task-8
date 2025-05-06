@@ -1,0 +1,16 @@
+# Titanic EDA 
+
+## Objective
+Perform Exploratory Data Analysis (EDA) and predict survival on the Titanic.
+
+## Contents
+- `Titanic_EDA.ipynb`: Full Jupyter Notebook with EDA 
+- `train.csv`: Titanic dataset used for training.
+- `report.pdf`: Exported notebook as a report.
+
+## Steps Covered
+1. Data loading and inspection
+2. Handling missing values
+3. Visualization of Box plot, Count plot, Violin plot, Histogram, parplot
+## Tools Used
+Python, Pandas, Seaborn, Matplotlib,
